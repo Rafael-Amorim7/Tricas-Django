@@ -18,7 +18,7 @@
                 <th scope="col">Nome</th>
                 <th scope="col">Email</th>
                 <th scope="col">Celular</th>
-                {% comment %}<th scope="col">Ações</th>{% endcomment %}
+                <th scope="col">Ações</th>
             </tr>
             </thead>
             <tbody>
@@ -31,15 +31,15 @@
                 <td>{{user.name}}</td>
                 <td>{{user.email}}</td>
                 <td>{{user.celular}}</td>
-                {% comment %}<td>
-                    <a href="/edit2/{{user.id}}/" class="btn btn-primary">Editar</a>
-                    <a href="/delete2/{{user.id}}/" class="btn btn-danger">Apagar</a>
-                </td>{% endcomment %}
+                <td>
+                    <a href="http://localhost:8000/admin/happy/user/{{user.id}}/change/" class="btn btn-primary">Editar</a>
+                    <a href="http://localhost:8000/admin/happy/user/{{user.id}}/delete/" class="btn btn-danger">Apagar</a>
+                </td>
             </tr>
             {% endfor %}
             </tbody>
         </table>
-        <button type="button" class="btn btn-primary" data-toggle="modal" onclick="window.location.href='{% url 'cadastro_cliente' %}'">
+        <button type="button" class="btn btn-primary" data-toggle="modal" onclick="window.location.href='http://localhost:8000/admin/happy/user/add/'">
             Cadastrar Cliente
         </button>
     </div>

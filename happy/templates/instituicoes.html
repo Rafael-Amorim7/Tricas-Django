@@ -16,7 +16,7 @@
                 <th scope="col">CEP</th>
                 <th scope="col">Bairro</th>
                 <th scope="col">Endereço</th>
-                {% comment %}<th scope="col">Ações</th>{% endcomment %}
+                <th scope="col">Ações</th>
             </tr>
             </thead>
             <tbody>
@@ -30,16 +30,19 @@
                 <td>{{institution.cep}}</td>
                 <td>{{institution.bairro}}</td>
                 <td>{{institution.endereco}}</td>
-                {% comment %}<td>
-                    <a href="/map/{{institution.id}}/" class="btn btn-light">Visualizar</a>
-                    <a href="/edit/{{institution.id}}/" class="btn btn-primary">Editar</a>
-                    <a href="/delete/{{institution.id}}/" class="btn btn-danger">Apagar</a>
-                </td>{% endcomment %}
+                <td>
+                    {% comment %}<a href="/map/{{institution.id}}/" class="btn btn-light">Visualizar</a>{% endcomment %}
+                    <a href="http://localhost:8000/admin/happy/institution/{{institution.id}}/change/" class="btn btn-primary">Editar</a>
+                    <a href="http://localhost:8000/admin/happy/institution/{{institution.id}}/delete/" class="btn btn-danger">Apagar</a>
+                </td>
             </tr>
             {% endfor %}
 
             </tbody>
         </table>
+        <button type="button" class="btn btn-primary" data-toggle="modal" onclick="window.location.href='http://localhost:8000/admin/happy/institution/add/'">
+            Cadastrar Instituição
+        </button>
     </div>
 </section>
 {% include 'partials/footer.html' %}
