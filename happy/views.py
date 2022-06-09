@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from happy.models import User, Institution
+from happy.models import Doacao, User, Institution
 
 def home(req):
     return render(req, 'index.html')
@@ -19,7 +19,9 @@ def usuarios(req):
     return render(req, 'usuarios.html', dados)
 
 def doacao(req):
+    doacao = Doacao.objects.all()
     data = {
+        'doacoes': doacao,
     }
     return render(req, 'doacao.html', data)
 
