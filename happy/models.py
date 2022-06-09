@@ -1,4 +1,5 @@
 from django.db import models
+from django.db.models.fields import IntegerField
 
 # Create your models here.
 class Estado(models.Model):
@@ -52,3 +53,15 @@ class Institution(models.Model):
     created_at = models.TimeField(auto_now=True)
     updated_at = models.TimeField(auto_now=True)
 
+
+class Doacao(models.Model):
+    Instituicoes = models.ForeignKey(
+        Institution,
+        on_delete=models.CASCADE
+    )
+    User = models.ForeignKey(
+        User,
+        on_delete=models.CASCADE
+    ) 
+    valor = IntegerField()
+    horario = models.TimeField(auto_now=True)
