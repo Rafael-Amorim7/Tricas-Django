@@ -65,3 +65,14 @@ class Doacao(models.Model):
     ) 
     valor = IntegerField()
     horario = models.TimeField(auto_now=True)
+
+    def __str__(self):
+        return self.User
+
+    @property
+    def user(self):
+        return User.objects.get(pk=self.User_id)
+        
+    @property
+    def instituicao(self):
+        return Institution.objects.get(pk=self.Instituicoes_id)
