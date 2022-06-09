@@ -1,0 +1,198 @@
+[
+    {
+        "model": "happy.estado",
+        "pk": 1,
+        "fields": {
+          "name": "Acre"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 2,
+        "fields": {
+          "name": "Alagoas"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 3,
+        "fields": {
+          "name": "Amapá"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 4,
+        "fields": {
+          "name": "Amazonas"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 5,
+        "fields": {
+          "name": "Bahia"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 6,
+        "fields": {
+          "name": "Ceará"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 7,
+        "fields": {
+          "name": "Distrito Federal"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 8,
+        "fields": {
+          "name": "Espírito Santo"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 9,
+        "fields": {
+          "name": "Goiás"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 10,
+        "fields": {
+          "name": "Maranhão"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 11,
+        "fields": {
+          "name": "Mato Grosso"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 12,
+        "fields": {
+          "name": "Mato Grosso do Sul"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 13,
+        "fields": {
+          "name": "Minas Gerais"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 14,
+        "fields": {
+          "name": "Pará"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 15,
+        "fields": {
+          "name": "Paraíba"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 16,
+        "fields": {
+          "name": "Paraná"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 17,
+        "fields": {
+          "name": "Pernambuco"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 18,
+        "fields": {
+          "name": "Piauí"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 19,
+        "fields": {
+          "name": "Piauí"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 20,
+        "fields": {
+          "name": "Rio de Janeiro"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 21,
+        "fields": {
+          "name": "Rio Grande do Norte"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 22,
+        "fields": {
+          "name": "Rio Grande do Sul"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 23,
+        "fields": {
+          "name": "Rondônia"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 24,
+        "fields": {
+          "name": "Roraima"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 25,
+        "fields": {
+          "name": "Santa Catarina"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 26,
+        "fields": {
+          "name": "São Paulo"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 27,
+        "fields": {
+          "name": "Sergipe"
+        }
+    },
+    {
+        "model": "happy.estado",
+        "pk": 28,
+        "fields": {
+          "name": "Tocantins"
+        }
+    }
+]

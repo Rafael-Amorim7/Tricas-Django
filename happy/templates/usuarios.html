@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+{% include 'partials/menu.html' %}
+
+
+<section class="best-receipe-area">
+    <div class="container">
+        <h1 class="text-center">Clientes Cadastrados</h1>
+        <table class="table table-striped">
+            <thead class="thead-dark">
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th scope="col"># ID</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Email</th>
+                <th scope="col">Celular</th>
+                {% comment %}<th scope="col">Ações</th>{% endcomment %}
+            </tr>
+            </thead>
+            <tbody>
+            {% for user in users %}
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th>{{user.id}}</th>
+                <td>{{user.name}}</td>
+                <td>{{user.email}}</td>
+                <td>{{user.celular}}</td>
+                {% comment %}<td>
+                    <a href="/edit2/{{user.id}}/" class="btn btn-primary">Editar</a>
+                    <a href="/delete2/{{user.id}}/" class="btn btn-danger">Apagar</a>
+                </td>{% endcomment %}
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        <button type="button" class="btn btn-primary" data-toggle="modal" onclick="window.location.href='{% url 'cadastro_cliente' %}'">
+            Cadastrar Cliente
+        </button>
+    </div>
+</section>
+
+{% include 'partials/footer.html' %}
+{% endblock content %}

@@ -1,0 +1,4524 @@
+[
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Adamantina",
+          "Estado_id_estado": 26
+        }
+    },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Adolfo",
+          "Estado_id_estado": 26
+        }
+    },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Aguaí",
+          "Estado_id_estado": 26
+        }
+    },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Águas da Prata",
+          "Estado_id_estado": 26
+        }
+    },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Águas da Lindóia",
+          "Estado_id_estado": 26
+        }
+    },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Águas de Santa Bárbara",
+          "Estado_id_estado": 26
+        }
+    },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Águas de São Pedro",
+          "Estado_id_estado": 26
+        }
+    },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Agudos",
+          "Estado_id_estado": 26
+        }
+    },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Alambari",
+          "Estado_id_estado": 26
+        }
+    },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Alfredo Marcondes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Altair",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Altinópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Alto Alegre",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Alumínio",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Álvares Florence",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Álvares Machado",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Álvaro de Carvalho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Alvinlândia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Americana",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Américo Brasiliense",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Américo de Campos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Amparo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Analândia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Andradina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Angatuba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Anhembi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Anhumas",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Aparecida",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Aparecida d'Oeste",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Apiaí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Araçariguama",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Araçatuba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Araçoiaba da Serra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Aramina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Arandu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Arapeí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Araraquara",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Araras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Arco-Íris",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Arealva",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Areias",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Areiópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ariranha",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Artur Nogueira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Arujá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Aspásia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Assis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Atibaia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Auriflama",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Avaí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Avanhandava",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Avaré",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bady Bassitt",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Balbinos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bálsamo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bananal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Barão de Antonina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Barbosa",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bariri",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Barra Bonita",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Barra do Chapéu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Barra do Turvo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Barretos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Barrinha",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Barueri",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bastos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Batatais",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bauru",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bebedouro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bento de Abreu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bernardino de Campos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bertioga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bilac",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Birigui",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Biritiba-Mirim",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Boa Esperança do Sul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bocaina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bofete",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Boituva",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bom Jesus dos Perdões",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bom Sucesso de Itararé",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Borá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Boracéia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Borborema",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Borebi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Botucatu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Bragança Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Braúna",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Brejo Alegre",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Brodowski",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Brotas",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Buri",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Buritama",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Buritizal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cabrália Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cabreúva",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Caçapava",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cachoeira Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Caconde",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cafelândia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Caiabu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Caieiras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Caiuá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cajamar",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cajati",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cajobi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cajuru",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Campina do Monte Alegre",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Campinas",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Campo Limpo Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Campos do Jordão",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Campos Novos Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cananéia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Canas",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cândido Mota",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cândido Rodrigues",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Canitar",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Capão Bonito",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Capela do Alto",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Capivari",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Caraguatatuba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Carapicuíba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cardoso",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Casa Branca",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cássia dos Coqueiros",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Castilho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Catanduva",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Catiguá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cedral",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cerqueira César",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cerquilho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cesário Lange",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Charqueada",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Chavantes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Clementina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Colina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Colômbia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Conchal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Conchas",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cordeirópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Coroados",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Coronel Macedo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Corumbataí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cosmópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cosmorama",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cotia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cravinhos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cristais Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cruzália",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cruzeiro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cubatão",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Cunha",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Descalvado",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Diadema",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Dirce Reis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Divinolândia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Dobrada",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Dois Córregos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Dolcinópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Dourado",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Dracena",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Duartina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Dumont",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Echaporã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Eldorado",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Elias Fausto",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Elisiário",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Embaúba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Embu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Embu-Guaçu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Emilianópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Engenheiro Coelho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Espírito Santo do Pinhal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Espírito Santo do Turvo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Estiva Gerbi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Estrela d'Oeste",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Estrela do Norte",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Euclides da Cunha Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Fartura",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Fernando Prestes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Fernandópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Fernão",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ferraz de Vasconcelos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Flora Rica",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Floreal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Florínia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Flórida Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Franca",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Francisco Morato",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Franco da Rocha",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Gabriel Monteiro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Gália",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Garça",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Gastão Vidigal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Gavião Peixoto",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "General Salgado",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Getulina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Glicério",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guaiçara",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guaimbê",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guaíra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guapiaçu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guapiara",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guará",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guaraçaí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guaraci",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guarani d'Oeste",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guarantã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guararapes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guararema",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guaratinguetá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guareí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guariba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guarujá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guarulhos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guatapará",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Guzolândia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Herculândia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Holambra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Hortolândia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Iacanga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Iacri",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Iaras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ibaté",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ibirá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ibirarema",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ibitinga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ibiúna",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Icém",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Iepê",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Igaraçu do Tietê",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Igarapava",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Igaratá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Iguape",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ilha Comprida",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ilha Solteira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ilhabela",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Indaiatuba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Indiana",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Indiaporã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Inúbia Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ipauçu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Iperó",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ipeúna",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ipiguá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Iporanga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ipuã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Iracemápolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Irapuã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Irapuru",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itaberá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itaí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itajobi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itaju",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itanhaém",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itaóca",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itapecerica da Serra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itapetininga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itapeva",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itapevi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itapira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itapirapuã Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itápolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itaporanga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itapuí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itapura",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itaquaquecetuba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itararé",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itariri",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itatiba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itatinga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itirapina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itirapuã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itobi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Itupeva",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ituverava",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jaborandi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jaboticabal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jacareí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jaci",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jacupiranga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jaguariúna",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jales",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jambeiro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jandira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jardinópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jarinu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jaú",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jeriquara",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Joanópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "João Ramalho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "José Bonifácio",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Júlio Mesquita",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jumirim",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Jundiaí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Junqueirópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Juquiá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Juquitiba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lagoinha",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Laranjal Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lavínia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lavrinhas",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Leme",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lençóis Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Limeira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lindóia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lins",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lorena",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lourdes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Louveira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lucélia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lucianópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Luís Antônio",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Luiziânia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lupércio",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Lutécia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Macatuba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Macaubal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Macedônia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Magda",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mairinque",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mairiporã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Manduri",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Marabá Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Maracaí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Marapoama",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mariápolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Marília",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Marinópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Martinópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Matão",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mauá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mendonça",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Meridiano",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mesópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Miguelópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mineiros do Tietê",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mira Estrela",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Miracatu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mirandópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mirante do Paranapanema",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mirassol",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mirassolândia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mococa",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mogi das Cruzes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mogi-Guaçu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mogi-Mirim",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mombuca",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Monções",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Mongaguá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Monte Alegre do Sul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Monte Alto",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Monte Aprazível",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Monte Azul Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Monte Castelo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Monte Mor",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Monteiro Lobato",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Morro Agudo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Morungaba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Motuca",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Murutinga do Sul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nantes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Narandiba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Natividade da Serra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nazaré Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Neves Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nhandeara",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nipoã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nova Aliança",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nova Campina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nova Canaã Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nova Castilho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nova Europa",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nova Granada",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nova Guataporanga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nova Independência",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nova Luzitânia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nova Odessa",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Novais",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Novo Horizonte",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Nuporanga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ocauçu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Óleo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Olímpia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Onda Verde",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Oriente",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Orindiúva",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Orlândia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Osasco",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Oscar Bressane",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Osvaldo Cruz",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ourinhos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ouro Verde",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ouroeste",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pacaembu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Palestina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Palmares Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Palmeira d'Oeste",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Palmital",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Panorama",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Paraguaçu Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Paraibuna",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Paraíso",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Paranapanema",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Paranapuã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Parapuã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pardinho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pariquera-Açu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Parisi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Patrocínio Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Paulicéia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Paulínia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Paulistânia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Paulo de Faria",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pederneiras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pedra Bela",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pedranópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pedregulho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pedreira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pedrinhas Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pedro de Toledo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Penápolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pereira Barreto",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pereiras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Peruíbe",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Piacatu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Piedade",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pilar do Sul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pindamonhangaba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pindorama",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pinhalzinho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Piquerobi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Piquete",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Piracaia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Piracicaba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Piraju",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pirajuí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pirangi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pirapora do Bom Jesus",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pirapozinho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pirassununga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Piratininga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pitangueiras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Planalto",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Platina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Poá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Poloni",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pompéia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pongaí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pontal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pontalinda",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pontes Gestal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Populina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Porangaba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Porto Feliz",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Porto Ferreira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Potim",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Potirendaba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pracinha",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pradópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Praia Grande",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Pratânia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Presidente Alves",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Presidente Bernardes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Presidente Epitácio",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Presidente Prudente",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Presidente Venceslau",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Promissão",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Quadra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Quatá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Queiroz",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Queluz",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Quintana",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rafard",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rancharia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Redenção da Serra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Regente Feijó",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Reginópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Registro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Restinga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ribeira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ribeirão Bonito",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ribeirão Branco",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ribeirão Corrente",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ribeirão do Sul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ribeirão dos Índios",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ribeirão Grande",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ribeirão Pires",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ribeirão Preto",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rifaina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rincão",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rinópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rio Claro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rio das Pedras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rio Grande da Serra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Riolândia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Riversul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rosana",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Roseira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rubiácea",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Rubinéia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sabino",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sagres",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sales",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sales Oliveira",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Salesópolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Salmourão",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Saltinho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Salto",
+          "Estado_id_estado": 26
+        }
+    },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Salto de Pirapora",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Salto Grande",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sandovalina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Adélia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Albertina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Bárbara d'Oeste",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Branca",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Clara d'Oeste",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Cruz da Conceição",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Cruz da Esperança",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Cruz das Palmeiras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Cruz do Rio Pardo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Ernestina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Fé do Sul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Gertrudes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Isabel",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Lúcia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Maria da Serra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Mercedes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Rita d'Oeste",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Rita do Passa Quatro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Rosa de Viterbo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santa Salete",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santana da Ponte Pensa",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santana de Parnaíba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santo Anastácio",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santo André",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santo Antônio da Alegria",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santo Antônio de Posse",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santo Antônio do Aracanguá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santo Antônio do Jardim",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santo Antônio do Pinhal",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santo Expedito",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santópolis do Aguapeí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Santos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Bento do Sapucaí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Bernardo do Campo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Caetano do Sul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Carlos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Francisco",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São João da Boa Vista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São João das Duas Pontes",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São João de Iracema",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São João do Pau d'Alho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Joaquim da Barra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São José da Bela Vista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São José do Barreiro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São José do Rio Pardo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São José do Rio Preto",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São José dos Campos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Lourenço da Serra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Luís do Paraitinga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Manuel",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Miguel Arcanjo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Paulo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Pedro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Pedro do Turvo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Roque",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Sebastião",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Sebastião da Grama",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Simão",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "São Vicente",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sarapuí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sarutaiá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sebastianópolis do Sul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Serra Azul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Serra Negra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Serrana",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sertãozinho",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sete Barras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Severínia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Silveiras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Socorro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sorocaba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sud Mennucci",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Sumaré",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Suzanápolis",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Suzano",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tabapuã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tabatinga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Taboão da Serra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Taciba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Taguaí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Taiaçu",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Taiúva",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tambaú",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tanabi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tapiraí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tapiratiba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Taquaral",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Taquaritinga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Taquarituba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Taquarivaí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tarabai",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tarumã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tatuí",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Taubaté",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tejupá",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Teodoro Sampaio",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Terra Roxa",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tietê",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Timburi",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Torre de Pedra",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Torrinha",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Trabiju",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tremembé",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Três Fronteiras",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tuiuti",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tupã",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Tupi Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Turiúba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Turmalina",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ubarana",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ubatuba",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Ubirajara",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Uchoa",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "União Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Urânia",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Uru",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Urupês",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Valentim Gentil",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Valinhos",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Valparaíso",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Vargem",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Vargem Grande do Sul",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Vargem Grande Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Várzea Paulista",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Vera Cruz",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Vinhedo",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Viradouro",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Vista Alegre do Alto",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Vitória Brasil",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Votorantim",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Votuporanga",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Zacarias",
+          "Estado_id_estado": 26
+        }
+      },
+    {
+        "model": "happy.cidade",
+        "fields": {
+          "name": "Zacarias",
+          "Estado_id_estado": 26
+        }
+    }
+]

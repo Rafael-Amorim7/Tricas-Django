@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+{% include 'partials/menu.html' %}
+<section class="best-receipe-area">
+    <div class="container">
+        <h1 class="text-center">Instituições Cadastradas</h1>
+        <table class="table table-striped">
+            <thead class="thead-dark">
+            <tr>
+                <th scope="col"># ID</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Email</th>
+                <th scope="col">Celular</th>
+                <th scope="col">Atividade</th>
+                <th scope="col">CEP</th>
+                <th scope="col">Bairro</th>
+                <th scope="col">Endereço</th>
+                {% comment %}<th scope="col">Ações</th>{% endcomment %}
+            </tr>
+            </thead>
+            <tbody>
+            {% for institution in institutions %}
+            <tr>
+                <th>{{institution.id}}</th>
+                <td>{{institution.name}}</td>
+                <td>{{institution.email}}</td>
+                <td>{{institution.celular}}</td>
+                <td>{{institution.atividade}}</td>
+                <td>{{institution.cep}}</td>
+                <td>{{institution.bairro}}</td>
+                <td>{{institution.endereco}}</td>
+                {% comment %}<td>
+                    <a href="/map/{{institution.id}}/" class="btn btn-light">Visualizar</a>
+                    <a href="/edit/{{institution.id}}/" class="btn btn-primary">Editar</a>
+                    <a href="/delete/{{institution.id}}/" class="btn btn-danger">Apagar</a>
+                </td>{% endcomment %}
+            </tr>
+            {% endfor %}
+
+            </tbody>
+        </table>
+    </div>
+</section>
+{% include 'partials/footer.html' %}
+{% endblock content %}

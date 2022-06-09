@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %} 
+{% include 'partials/menu.html' %}
+<section class="best-receipe-area">
+    <div class="container">
+        <h1 class="text-center">Doações Cadastradas</h1>
+        <table class="table table-striped">
+            <thead class="thead-dark">
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th scope="col"># ID</th>
+                <th scope="col">Id Instituicao</th>
+                <th scope="col">Id Usuario</th>
+                <th scope="col">Valor</th>
+                {% comment %}<th scope="col">Ações</th>{% endcomment %}
+            </tr>
+            </thead>
+            <tbody>
+            {% for doacao in doacoes %}
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th>{{doacao.id}}</th>
+                <td>{{doacao.instituicao_nome}}</td>
+                <td>{{doacao.usuario_nome}}</td>
+                <td>{{doacao.valor}}</td>
+                {% comment %}<td>
+                    <a href="/editDoacao/{{doacao.id}}/" class="btn btn-primary">Editar</a>
+                    <a href="/deleteDoacao/{{doacao.id}}/" class="btn btn-danger">Apagar</a>
+                </td>{% endcomment %}
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</section>
+    {% include 'partials/footer.html' %}
+{% endblock content %}
