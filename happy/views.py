@@ -34,6 +34,9 @@ def detail_institution(req, pk):
     }
     return render(req, 'detail_institution.html', data)
 
+def sugestao(req):
+    return render(req, 'sugestao.html')
+
 def map(req, location):
     location = geocoder.osm(str(location))
     if (location.lat == None):

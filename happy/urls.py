@@ -6,6 +6,7 @@ urlpatterns = [
     path('instituicoes/', views.instituicoes, name='instituicoes'),
     path('usuarios/', views.usuarios, name='usuarios'),
     path('doacao/', views.doacao, name='doacao'),
+    path('sugestao/', views.sugestao, name='sugestao'),
     path('detail_institution/<int:pk>/', views.detail_institution, name='detail_institution'),
     path('map/<str:location>', views.map, name='map'),
 ]
