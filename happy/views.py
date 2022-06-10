@@ -1,6 +1,7 @@
 from django.shortcuts import render
-from django.db import models
 from happy.models import Doacao, User, Institution
+import folium
+import geocoder
 
 def home(req):
     return render(req, 'index.html')
@@ -32,3 +33,19 @@ def detail_institution(req, pk):
         'institution': institution,
     }
     return render(req, 'detail_institution.html', data)
+
+def map(req, location):
+    location = geocoder.osm(str(location))
+    if (location.lat == None):
+        location = geocoder.osm('São Paulo')
+    lat = location.lat
+    lng = location.lng
+    country = location.country
+    # Create Map Object
+    m = folium.Map(location=[lat, lng], zoom_start=100)
+    folium.Marker([lat,lng], tooltip='Clique para mais informações', popup=country).add_to(m)
+    m = m._repr_html_()
+    data={
+        'm':m,
+    }
+    return render(req, 'map.html', data)
