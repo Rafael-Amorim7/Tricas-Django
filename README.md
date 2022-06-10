@@ -14,8 +14,8 @@ Decidimos criar um site de doações pra instituições caridade, órgãos, pet 
 	Quando estávamos pensando em o que tipo de site poderíamos criar, muitas ideias foram aparecendo, porém, teve uma que nós decidimos realizar pelo fato de ser algo bem interessante. Com isso, colocamos as ideias no “papel” e fomos aprimorando com as opiniões e votações de todos os membros do grupo. Foi decidido realizar um site de doações, como atualmente estamos na era da informação, acreditamos que informar ao mundo que pessoas carentes estão precisando de ajuda, podemos estar salvando vidas.
 	
 <h2>Arquitetura de software</h2>
-O desenvolvimento do site foi na Linguagem Python/Django. Respeitando os requisitos impostos a nós, sendo eles; usar a arquitetura MVC, que em Djando a sigla correta é MTV, trocando o View (MVC) por Template (MTV) e Controller (MVC) por View (MTV), conforme a imagem abaixo:
-![MVP in Django](./doc/MVC_in_Django.jpeg)
+O desenvolvimento do site foi na Linguagem Python/Django. Respeitando os requisitos impostos a nós, sendo eles; usar a arquitetura MVC, que em Djando a sigla correta é MTV, trocando o View (MVC) por Template (MTV) e Controller (MVC) por View (MTV), conforme a imagem abaixo:<br>
+<img alt="MVP in Django" src="./doc/MVC_in_Django.jpeg" align="center">
 
 <h2>Entidades</h2>
 As entidades presentes do nosso projeto são, os estados, cidades, instituições, pessoas e doações. Pensamento em um futuro agregar em nosso projeto entidades de doação exteriores.
