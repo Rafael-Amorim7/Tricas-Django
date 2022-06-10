@@ -26,5 +26,9 @@ def doacao(req):
     }
     return render(req, 'doacao.html', data)
 
-def datail_user(req):
-    return render(req, 'detail_user.html')
+def detail_institution(req, pk):
+    institution = Institution.objects.get(pk = pk)
+    data = {
+        'institution': institution,
+    }
+    return render(req, 'detail_institution.html', data)

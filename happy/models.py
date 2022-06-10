@@ -53,6 +53,15 @@ class Institution(models.Model):
     created_at = models.TimeField(auto_now=True)
     updated_at = models.TimeField(auto_now=True)
 
+    @property
+    def city(self):
+        return Cidade.objects.get(pk=self.Cidade_id_cidade_id)
+        
+    @property
+    def state(self):
+        return Estado.objects.get(pk=self.Estado_id_estado_id)
+
+
 
 class Doacao(models.Model):
     Instituicoes = models.ForeignKey(
@@ -65,9 +74,6 @@ class Doacao(models.Model):
     ) 
     valor = IntegerField()
     horario = models.TimeField(auto_now=True)
-
-    def __str__(self):
-        return self.User
 
     @property
     def user(self):

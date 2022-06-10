@@ -1,3 +1,4 @@
+
 {% extends 'base.html' %}
 {% load static %}
 
@@ -8,8 +9,6 @@
 {% block content %}
 
 {% include 'partials/menu.html' %}
-<form method="post" action="{% if db %}/update2/{{db.id}}/{% else %}/create_cliente/{% endif %}">
-{% csrf_token %}
 <section class="best-receipe-area">
     <div class="container">
         <div class="row gutters">
@@ -21,12 +20,12 @@
                             <div class="user-avatar">
                                 <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Maxwell Admin">
                             </div>
-                            <h5 class="user-name">Nome</h5>
-                            <h6 class="user-email">Email</h6>
+                            <h5 class="user-name">{{ institution.name }}</h5>
+                            <h6 class="user-email">{{ institution.email }}</h6>
                         </div>
                         <div class="about">
                             <h5>Sobre</h5>
-                            <p>Detalhes</p>
+                            <p>{{ institution.descricao }}</p>
                         </div>
                     </div>
                 </div>
@@ -42,25 +41,25 @@
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                             <div class="form-group">
                                 <label for="fullName">Nome Completo</label>
-                                <input type="text" class="form-control" id="fullName" placeholder="Preencha nome completo">
+                                <input value="{{ institution.name }}" type="text" class="form-control" id="fullName" placeholder="Preencha nome completo">
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                             <div class="form-group">
                                 <label for="eMail">Email</label>
-                                <input type="email" class="form-control" id="eMail" placeholder="Preencha email">
+                                <input value="{{ institution.email }}" type="email" class="form-control" id="eMail" placeholder="Preencha email">
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label for="phone">Atividade</label>
+                                <input value="{{ institution.atividade }}" type="text" class="form-control" id="phone" placeholder="Coloque sua atividade">
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                             <div class="form-group">
                                 <label for="phone">Celular</label>
-                                <input type="text" class="form-control" id="phone" placeholder="Preencha numero de celular">
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                            <div class="form-group">
-                                <label for="website">Site URL</label>
-                                <input type="url" class="form-control" id="website" placeholder="Preencha site">
+                                <input value="{{ institution.celular }}" type="text" class="form-control" id="phone" placeholder="Preencha numero de celular">
                             </div>
                         </div>
                     </div>
@@ -71,38 +70,36 @@
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                             <div class="form-group">
                                 <label for="Street">Rua</label>
-                                <input type="name" class="form-control" id="Street" placeholder="Preencha rua">
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                            <div class="form-group">
-                                <label for="ciTy">Cidade</label>
-                                <input type="name" class="form-control" id="ciTy" placeholder="Preencha cidade">
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                            <div class="form-group">
-                                <label for="sTate">Estado</label>
-                                <input type="text" class="form-control" id="sTate" placeholder="Preencha estado">
+                                <input value="{{ institution.endereco }}" type="name" class="form-control" id="Street" placeholder="Preencha rua">
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                             <div class="form-group">
                                 <label for="zIp">CEP</label>
-                                <input type="text" class="form-control" id="zIp" placeholder="Preencha Cep">
+                                <input value="{{ institution.cep }}" type="text" class="form-control" id="zIp" placeholder="Preencha Cep">
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label for="ciTy">Cidade</label>
+                                <input value="{{ institution.city.name }}" type="name" class="form-control" id="ciTy" placeholder="Preencha cidade">
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                            <div class="form-group">
+                                <label for="sTate">Estado</label>
+                                <input value="{{ institution.state.name }}" type="text" class="form-control" id="sTate" placeholder="Preencha estado">
                             </div>
                         </div>
                     </div>
                     <div class="row gutters">
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                             <div class="text-right">
-                                <button type="button" id="submit" name="submit" class="btn btn-secondary">Cancelar</button>
-                                <button type="button" id="submit" name="submit" class="btn btn-primary">Salvar</button>
+                                <button onclick="window.location.href=`{% url 'instituicoes' %}`" type="button" id="submit" name="submit" class="btn btn-secondary">Voltar</button>
                             </div>
                         </div>
     </div>
 </section>
-</form>
 
 {% include 'partials/footer.html' %}
 {% endblock content %}

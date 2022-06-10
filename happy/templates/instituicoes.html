@@ -15,7 +15,6 @@
                 <th scope="col">Atividade</th>
                 <th scope="col">CEP</th>
                 <th scope="col">Bairro</th>
-                <th scope="col">Endereço</th>
                 <th scope="col">Ações</th>
             </tr>
             </thead>
@@ -29,9 +28,8 @@
                 <td>{{institution.atividade}}</td>
                 <td>{{institution.cep}}</td>
                 <td>{{institution.bairro}}</td>
-                <td>{{institution.endereco}}</td>
                 <td>
-                    {% comment %}<a href="/map/{{institution.id}}/" class="btn btn-light">Visualizar</a>{% endcomment %}
+                    <a href="/detail_institution/{{institution.id}}" class="btn btn-light">Detalhe</a>
                     <a href="http://localhost:8000/admin/happy/institution/{{institution.id}}/change/" class="btn btn-primary">Editar</a>
                     <a href="http://localhost:8000/admin/happy/institution/{{institution.id}}/delete/" class="btn btn-danger">Apagar</a>
                 </td>
