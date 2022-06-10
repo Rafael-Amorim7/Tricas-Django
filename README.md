@@ -22,7 +22,7 @@ As entidades presentes do nosso projeto são, os estados, cidades, instituiçõe
 
 Interação com banco e relação 1-N e N-N:
 Em nosso projeto, utilizamos o relacionamento 1-N e N-N como está mostrado nas imagens abaixo:
-![Banco Relações](./doc/Relacao_banco.jpeg)
+![Banco Relações](./doc/Relacao_Banco.jpeg)
 
 A entidade “Doações”, se dá a partir da relação N-N entre as “Instituições” e “Usuários”. Sendo assim, um usuário poderá realizar uma doação para N instituições e uma Instituição poderá receber de N usuários.
 
