@@ -33,7 +33,7 @@ As relações de 1-N são:
 - Estado → Cidades
 - Cidades → Usuários
 - Cidades → Instituições
-- Usuários → Doações → Instituições
+- Usuários → Doações ← Instituições
     
 <h2>Conclusão</h2>
 	Por fim, nosso projeto tem como principal objetivo centralizar todas Instituição de caridade da região do usuário em um aplicativo. Além disso, nossa intenção é promover programas de doação que são realizados pela sociedade. Outra finalidade do projeto é facilitar meios de doações às pessoas que desejam realizá-las. 	
