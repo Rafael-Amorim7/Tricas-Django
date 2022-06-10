@@ -7,6 +7,9 @@
 608009 | Rafael de Carvalho Amorim<br/>
 602124 | Gabriel Dal Fabbro Antoniazzi
 
+<h2>🎬Vídeo</h2>
+https://youtu.be/wImIap6GV9M
+
 <h2>Introdução</h2>
 Decidimos criar um site de doações pra instituições caridade, órgãos, pet shops, pessoas carentes, entre outros.  Fizemos o planejamento de projeto, com isso, o grupo conseguiu ter um objetivo e decidir como seria o resultado esperado. Acreditamos que com o site, será possível um novo meio de facilitar e incentivar pessoas que possuem condições de ajudar, realizar doações de maneira pratica e funcional.
 
@@ -22,7 +25,7 @@ As entidades presentes do nosso projeto são, os estados, cidades, instituiçõe
 
 Interação com banco e relação 1-N e N-N:
 Em nosso projeto, utilizamos o relacionamento 1-N e N-N como está mostrado nas imagens abaixo:
-![Banco Relações](./doc/Relacao_banco.jpeg)
+![Banco Relações](./doc/Relacao_Banco.jpeg)
 
 A entidade “Doações”, se dá a partir da relação N-N entre as “Instituições” e “Usuários”. Sendo assim, um usuário poderá realizar uma doação para N instituições e uma Instituição poderá receber de N usuários.
 
@@ -30,7 +33,7 @@ As relações de 1-N são:
 - Estado → Cidades
 - Cidades → Usuários
 - Cidades → Instituições
-- Usuários → Doações → Instituições
+- Usuários → Doações ← Instituições
     
 <h2>Conclusão</h2>
 	Por fim, nosso projeto tem como principal objetivo centralizar todas Instituição de caridade da região do usuário em um aplicativo. Além disso, nossa intenção é promover programas de doação que são realizados pela sociedade. Outra finalidade do projeto é facilitar meios de doações às pessoas que desejam realizá-las. 	
