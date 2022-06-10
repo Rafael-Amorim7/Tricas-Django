@@ -15,14 +15,14 @@ Decidimos criar um site de doações pra instituições caridade, órgãos, pet 
 	
 <h2>Arquitetura de software</h2>
 O desenvolvimento do site foi na Linguagem Python/Django. Respeitando os requisitos impostos a nós, sendo eles; usar a arquitetura MVC, que em Djando a sigla correta é MTV, trocando o View (MVC) por Template (MTV) e Controller (MVC) por View (MTV), conforme a imagem abaixo:
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/Rafael-Amorim7/Tricas-Django/main/doc/MVC_in_Django.jpeg))
+![MVP in Django](./doc/MVC_in_Django.jpeg)
 
 <h2>Entidades</h2>
 As entidades presentes do nosso projeto são, os estados, cidades, instituições, pessoas e doações. Pensamento em um futuro agregar em nosso projeto entidades de doação exteriores.
 
 Interação com banco e relação 1-N e N-N:
 Em nosso projeto, utilizamos o relacionamento 1-N e N-N como está mostrado nas imagens abaixo:
-![plot](./doc/Relacao_banco.jpeg)
+![Banco Relações](./doc/Relacao_banco.jpeg)
 
 A entidade “Doações”, se dá a partir da relação N-N entre as “Instituições” e “Usuários”. Sendo assim, um usuário poderá realizar uma doação para N instituições e uma Instituição poderá receber de N usuários.
 
