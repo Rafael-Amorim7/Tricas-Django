@@ -1,15 +1,5 @@
 # Tricas-Django
 
-<h3>Integrante</h3>
-605778 | Breno S. Martins<br/>
-602302 | Gustavo Batista Caetano<br/>
-589748 | Richard Gabriel Siqueira Papa<br/>
-608009 | Rafael de Carvalho Amorim<br/>
-602124 | Gabriel Dal Fabbro Antoniazzi
-
-<h2>🎬Vídeo</h2>
-https://youtu.be/wImIap6GV9M
-
 <h2>Introdução</h2>
 Decidimos criar um site de doações pra instituições caridade, órgãos, pet shops, pessoas carentes, entre outros.  Fizemos o planejamento de projeto, com isso, o grupo conseguiu ter um objetivo e decidir como seria o resultado esperado. Acreditamos que com o site, será possível um novo meio de facilitar e incentivar pessoas que possuem condições de ajudar, realizar doações de maneira pratica e funcional.
 
